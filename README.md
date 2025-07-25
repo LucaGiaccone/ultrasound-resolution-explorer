@@ -11,5 +11,5 @@ It features 3D interpolation plots and a resolution estimator based on weighted 
 ![Resolution Estimation](res-est.png)
 
 
-Try the app online here: [Streamlit Ultrasound Resolution Explorer](https://share.streamlit.io/your-username/your-repo-name/main/app.py)
+Try the app online here: [Streamlit Ultrasound Resolution Explorer](https://ultrasound-resolution-explorer.streamlit.app/)
 
