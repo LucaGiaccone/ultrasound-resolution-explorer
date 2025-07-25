@@ -14,7 +14,7 @@ param_names = ["Depth (mm)", "Center frequency (MHz)", "Voltage (V)", "Number of
 name_to_idx = {name: i for i, name in enumerate(param_names)}
 
 st.set_page_config(layout="wide")
-st.title("Ultrasound Resolution Explorer")
+st.title("VERMON RCA - Resolution Explorer")
 
 # Sidebar
 x_var = st.sidebar.selectbox("X axis variable", param_names, index=0)
