@@ -11,5 +11,5 @@ It features 3D interpolation plots and a resolution estimator based on weighted 
 ![Resolution Estimation](res-est.png)
 
 
-Try the app online here: [Streamlit Ultrasound Resolution Explorer](https://ultrasound-resolution-explorer.streamlit.app/)
+Try the app online here: [Streamlit VERMON RCA - Resolution Explorer](https://ultrasound-resolution-explorer.streamlit.app/)
 
