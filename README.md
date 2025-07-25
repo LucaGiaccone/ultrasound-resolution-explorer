@@ -1,4 +1,4 @@
-# VERMON RCA Resolution Explorer
+# VERMON RCA - Resolution Explorer
 
 I studied the resolution of VERMON RCA 64x64 probe running on us4R-lite scanner using the CIRS 054GS phantom. 
 -6dB resolution was computed for 600 points in the parameter space of: TX center frequency, depth, voltage and number of plane waves.
